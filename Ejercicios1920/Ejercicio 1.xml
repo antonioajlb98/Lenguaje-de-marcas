@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Libro titulo="Un puente hacia terabithia" editorial="Destino" autor="Katherine Paterson" numero_de_paginas="190">
+    <Capitulos>
+        <Capitulo>
+            <Titulo>Jesse Oliver Aarons, Jr.</Titulo>
+            <Pagina_Inicio>9</Pagina_Inicio>
+            <Pagina_Final>21</Pagina_Final>
+        </Capitulo>
+        <Capitulo>
+            <Titulo></Titulo>
+            <Pagina_Inicio></Pagina_Inicio>
+            <Pagina_Final></Pagina_Final>
+        </Capitulo>
+        <Capitulo>
+            <Titulo></Titulo>
+            <Pagina_Inicio></Pagina_Inicio>
+            <Pagina_Final></Pagina_Final>
+        </Capitulo>
+        <Capitulo>
+            <Titulo></Titulo>
+            <Pagina_Inicio></Pagina_Inicio>
+            <Pagina_Final></Pagina_Final>
+        </Capitulo>
+        <Capitulo>
+            <Titulo></Titulo>
+            <Pagina_Inicio></Pagina_Inicio>
+            <Pagina_Final></Pagina_Final>
+        </Capitulo>
+        <Capitulo>
+            <Titulo></Titulo>
+            <Pagina_Inicio></Pagina_Inicio>
+            <Pagina_Final></Pagina_Final>
+        </Capitulo>
+    </Capitulos>
+</Libro>

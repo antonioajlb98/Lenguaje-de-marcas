@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <h1 style="font-size:40px">Formulario de reservas de salas</h1>
+    </head>
+<table>
+    <style>
+        td,tr,table{
+            border-collapse: collapse;
+            font-size:23px;
+            border-top:black 3px solid;
+            border-bottom:black 3px solid;
+        }
+    </style>
+    <style>
+        tr:nth-child(odd) {
+    background-color: #D6EEEE;
+    }
+    </style>
+    <tr>
+        <td style="padding-top:5px; padding-bottom:10px">
+            <strong>Tu nombre:</strong>
+        </td>
+        <td>
+            <from>
+                <input type="text" id="fname" name="fname" value="Nombre"><br>
+            </from>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-top:5px; padding-bottom:10px">
+            <strong>Tu correo Electronico:</strong>
+        </td>
+        <td>
+            <from>
+                <input type="text" id="fname" name="fname" value="correo electronico"><br>
+            </from>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-top:5px; padding-bottom:10px">
+            <strong>Departamento:</strong>
+        </td>
+        <td>
+            <form>
+                    <input list="Departamentos" name="Midepartamento" value="Ventas" /></label>
+                    <datalist id="Departamentos">
+                      <option value="Ventas">
+                      <option value="Empaquetación">
+                      <option value="Envios">
+                      <option value="Pedidos">
+                    </datalist>
+            </form>
+        </td>
+    </tr>
+    <tr>
+        <td>
+           <strong>Tipo de sala que desea reservar:</strong> 
+        </td>
+        <td style="padding-top:25px; padding-bottom:25px; padding-left:50px;">
+            <strong>
+                <form>
+                    <input type="radio" id="Tipo_A" name="tipo_de_departamento" value="Tipo_A">
+                    <label for="html">Tipo A</label><br>
+                    <input type="radio" id="Tipo_B" name="tipo_de_departamento" value="Tipo_B">
+                    <label for="css">Tipo B</label><br>
+                    <input type="radio" id="Tipo_C" name="tipo_de_departamento" value="Tipo_C">
+                    <label for="javascript">Tipo C</label>
+                </form>
+            </strong>
+        </td>
+        
+    </tr>
+    <tr>
+        <td>
+            <strong>Requisitos extra:</strong>
+        </td>
+        <td style="padding-top:25px; padding-bottom:25px; padding-left:50px;">
+            <strong>
+                <form>
+                    <input type="checkbox" id="requisito1" name="requisito1" value="Caballete_y_boligrafos">
+                    <label for="requisito1">Caballete y Bolígrafos</label><br>
+                    <input type="checkbox" id="requisito2" name="requisito2" value="Television">
+                    <label for="requisito2">Television</label><br>
+                    <input type="checkbox" id="requisito3" name="requisito3" value="Cafe_te_agua">
+                    <label for="requisito3">Café, Té y agua</label>
+                </form>
+            </strong>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-top:5px; padding-bottom:10px">
+            <strong>Fecha de la reserva:</strong>
+        </td>
+        <td>
+            <form>
+                <input type="date" id="start" name="trip-start"
+                value="2021-11-03"
+                min="2021-01-01" 
+                max="2022-12-31">
+            </form>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding-top:5px; padding-bottom:10px">
+            <strong>Hora de la reserva:</strong>
+        </td>
+        <td>
+            <form>
+                <input type="time">
+            </form>
+        </td>
+    </tr>
+</table>
+</html>

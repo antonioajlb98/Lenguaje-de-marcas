@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Canales_de_televisión xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Ejercicio2.xsd">
+    <Canal_de_televisión name="Telecinco" num="5">
+        <Lunes>
+            <Programas>
+                <Programa>
+                    <Descripción>Comedia</Descripción>
+                    <Titulo>La que se avecina</Titulo>
+                    <Duración>1h</Duración>
+                    <Clasificación_por_edad>18</Clasificación_por_edad>
+                    <Subtitulos>no</Subtitulos>
+                    <Idioma>Español</Idioma>
+                    <capitulo></capitulo>
+                    <Anuncios>
+                        <Marca>Cocacola</Marca>
+                        <Duración>10 seg</Duración>
+                        <Horario>11:30</Horario>
+                    </Anuncios>
+                </Programa>
+            </Programas>
+        </Lunes>
+        <Martes>
+            <Programas>
+                <Programa>
+                    <Descripción>Familiar</Descripción>
+                    <Titulo>La voz</Titulo>
+                    <Duración>1 h</Duración>
+                    <Clasificación_por_edad>12</Clasificación_por_edad>
+                    <Subtitulos></Subtitulos>
+                    <Idioma>Español</Idioma>
+                    <capitulo></capitulo>
+                    <Anuncios>
+                        <Marca>One million</Marca>
+                        <Duración>15 seg</Duración>
+                        <Horario>10:30</Horario>
+                    </Anuncios>
+                </Programa>
+            </Programas>
+        </Martes>
+    </Canal_de_televisión>
+    <Canal_de_televisión name="Antena 3" num="3">
+        <Lunes>
+            <Programas>
+                <Programa>
+                    <Descripción>Comedia</Descripción>
+                    <Titulo>Los Simpson</Titulo>
+                    <Duración>1 h</Duración>
+                    <Clasificación_por_edad>12</Clasificación_por_edad>
+                    <Subtitulos></Subtitulos>
+                    <Idioma>Español</Idioma>
+                    <capitulo></capitulo>
+                    <Anuncios>
+                        <Marca>Axe</Marca>
+                        <Duración>15 seg</Duración>
+                        <Horario>10:30</Horario>
+                    </Anuncios>
+                </Programa>
+            </Programas>
+        </Lunes>
+        <Martes>
+            <Programas>
+                <Programa>
+                    <Descripción>Futbol</Descripción>
+                    <Titulo>FC Barcelona vs Real Madrid</Titulo>
+                    <Duración>90 min</Duración>
+                    <Clasificación_por_edad>12</Clasificación_por_edad>
+                    <Subtitulos>no</Subtitulos>
+                    <Idioma>Español</Idioma>
+                    <capitulo></capitulo>
+                    <Anuncios>
+                        <Marca>Heineken</Marca>
+                        <Duración>12 seg</Duración>
+                        <Horario>9:30</Horario>
+                    </Anuncios>
+                </Programa>
+            </Programas>
+        </Martes>
+    </Canal_de_televisión>
+</Canales_de_televisión>

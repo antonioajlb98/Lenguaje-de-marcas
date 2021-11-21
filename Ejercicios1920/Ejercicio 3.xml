@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Concesionario>
+    <Marcas>
+        <Marca nombre="audi">
+            <Pais_Procedencia>Alemania</Pais_Procedencia>
+           <Cocches>
+               <Coche>
+                   <Modelo>A4</Modelo>
+                   <Matricula>7785 KFC</Matricula>
+                   <Año_de_Matriculación>2018</Año_de_Matriculación>
+                   <Numero_de_Plazas>5</Numero_de_Plazas>
+                   <Caballos>150</Caballos>
+               </Coche>
+               <Coche>
+                <Modelo>A5</Modelo>
+                <Matricula>6532 LMN</Matricula>
+                <Año_de_Matriculación>2020</Año_de_Matriculación>
+                <Numero_de_Plazas>5</Numero_de_Plazas>
+                <Caballos>190</Caballos>
+            </Coche>
+           </Cocches> 
+        </Marca>
+        <Marca nombre="BMW">
+            <Pais_Procedencia>Alemania</Pais_Procedencia>
+           <Cocches>
+               <Coche>
+                   <Modelo>320</Modelo>
+                   <Matricula>6754 KLM</Matricula>
+                   <Año_de_Matriculación>2019</Año_de_Matriculación>
+                   <Numero_de_Plazas>5</Numero_de_Plazas>
+                   <Caballos>180</Caballos>
+               </Coche>
+               <Coche>
+                <Modelo>530</Modelo>
+                <Matricula>7749 KBW</Matricula>
+                <Año_de_Matriculación>2018</Año_de_Matriculación>
+                <Numero_de_Plazas>5</Numero_de_Plazas>
+                <Caballos>230</Caballos>
+            </Coche>
+           </Cocches> 
+        </Marca>
+        <Marca>
+            <Nombre></Nombre>
+            <Pais_Procedencia></Pais_Procedencia>
+           <Cocches>
+               <Coche>
+                   <Modelo></Modelo>
+                   <Matricula></Matricula>
+                   <Año_de_Matriculación></Año_de_Matriculación>
+                   <Numero_de_Plazas></Numero_de_Plazas>
+                   <Caballos></Caballos>
+               </Coche>
+               <Coche>
+                <Modelo></Modelo>
+                <Matricula></Matricula>
+                <Año_de_Matriculación></Año_de_Matriculación>
+                <Numero_de_Plazas></Numero_de_Plazas>
+                <Caballos></Caballos>
+            </Coche>
+           </Cocches> 
+        </Marca>
+        <Marca>
+            <Nombre></Nombre>
+            <Pais_Procedencia></Pais_Procedencia>
+           <Cocches>
+               <Coche>
+                   <Modelo></Modelo>
+                   <Matricula></Matricula>
+                   <Año_de_Matriculación></Año_de_Matriculación>
+                   <Numero_de_Plazas></Numero_de_Plazas>
+                   <Caballos></Caballos>
+               </Coche>
+               <Coche>
+                <Modelo></Modelo>
+                <Matricula></Matricula>
+                <Año_de_Matriculación></Año_de_Matriculación>
+                <Numero_de_Plazas></Numero_de_Plazas>
+                <Caballos></Caballos>
+            </Coche>
+           </Cocches> 
+        </Marca>
+        <Marca>
+            <Nombre></Nombre>
+            <Pais_Procedencia></Pais_Procedencia>
+           <Cocches>
+               <Coche>
+                   <Modelo></Modelo>
+                   <Matricula></Matricula>
+                   <Año_de_Matriculación></Año_de_Matriculación>
+                   <Numero_de_Plazas></Numero_de_Plazas>
+                   <Caballos></Caballos>
+               </Coche>
+               <Coche>
+                <Modelo></Modelo>
+                <Matricula></Matricula>
+                <Año_de_Matriculación></Año_de_Matriculación>
+                <Numero_de_Plazas></Numero_de_Plazas>
+                <Caballos></Caballos>
+            </Coche>
+           </Cocches> 
+        </Marca>
+    </Marcas>
+</Concesionario>

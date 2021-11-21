@@ -1,0 +1,33 @@
+.Table td,th{
+    border: 1px solid black;
+    width: 60px;
+    height:60px;
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+.top{
+    vertical-align: text-top;
+}
+.center{
+    text-align: center;
+}
+.Table{
+    border:none;
+    border-spacing:0px;
+}
+.bot {
+    vertical-align:bottom;
+}
+.bot1{
+    vertical-align:bottom;
+    text-align:center;
+}
+.right1{
+    vertical-align:bottom;
+    text-align:right;
+}
+

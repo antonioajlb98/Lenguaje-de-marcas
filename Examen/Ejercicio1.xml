@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Medios_de_Transporte>
+    <Medio_de_Transporte>
+        <Tren>
+            <Velocidad>160 Km/h</Velocidad>
+            <Emision_de_CO2>30</Emision_de_CO2>
+            <Medio_por_el_que_se_mueve>Railes</Medio_por_el_que_se_mueve>
+            <Cantidad_de_Pasajeros>70</Cantidad_de_Pasajeros>
+            <Ave>
+                <Velocidad>200 Km/h</Velocidad>
+                <Emision_de_CO2>20</Emision_de_CO2>
+                <Medio_por_el_que_se_mueve>Railes</Medio_por_el_que_se_mueve>
+                <Cantidad_de_Pasajeros>100</Cantidad_de_Pasajeros>
+            </Ave>
+            <Cercanias>
+                <Velocidad>80 Km/h</Velocidad>
+                <Emision_de_CO2>35</Emision_de_CO2>
+                <Medio_por_el_que_se_mueve>Railes</Medio_por_el_que_se_mueve>
+                <Cantidad_de_Pasajeros>20</Cantidad_de_Pasajeros>
+            </Cercanias>
+        </Tren>
+        <Avión>
+            <Velocidad>160 Km/h</Velocidad>
+            <Emision_de_CO2>30</Emision_de_CO2>
+            <Medio_por_el_que_se_mueve>Railes</Medio_por_el_que_se_mueve>
+            <Cantidad_de_Pasajeros>70</Cantidad_de_Pasajeros>
+        </Avión>
+        <Coche>
+            <Velocidad>160 Km/h</Velocidad>
+            <Emision_de_CO2>30</Emision_de_CO2>
+            <Medio_por_el_que_se_mueve>Railes</Medio_por_el_que_se_mueve>
+            <Cantidad_de_Pasajeros>70</Cantidad_de_Pasajeros>
+        </Coche>
+    </Medio_de_Transporte>
+    <Conductores>
+        <Conductor medio_de_transporte="Ave"></Conductor>
+        <Conductor medio_de_transporte="Coche"></Conductor>
+        <Conductor medio_de_transporte="Avión"></Conductor>
+    </Conductores>
+</Medios_de_Transporte>

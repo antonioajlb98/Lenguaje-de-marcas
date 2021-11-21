@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<relacion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Ex2t3.xsd">
+    <books>
+        <book>
+            <autor>Antoniou, G. and F. van Harmelen</autor>
+            <year>2004</year>
+            <name>A Semantic Web Primer</name>
+            <from>Cambridge</from>
+            <editorial>MA: MIT Press</editorial>
+        </book>
+        <book>
+            <autor>Daconts, M.C., L.J. Orbst, and K.T. Smith</autor>
+            <year>2003</year>
+            <name>The Semantic Web: A Guide to the Future of XML, Web Services, and Knowledge Management</name>
+            <from>New York</from>
+            <editorial>Wiley</editorial>
+        </book>
+    </books>
+</relacion>

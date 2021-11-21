@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<shiporder orderid="889923"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Ex2.xsd">
+<orderperson>John Smith</orderperson>
+<shipto>
+    <name>Antonio Jesus</name>
+    <address>Plaza Blas Infante</address>
+    <city>Córdoba</city>
+    <country>España</country>
+</shipto>
+<item>
+    <title>El señor de los anillos</title>
+    <note>Libro</note>
+    <quantity>1</quantity>
+    <price>15</price>
+</item>
+<item>
+    <title>Hobbit</title>
+    <quantity>1</quantity>
+    <price>10</price>
+</item>
+</shiporder>
