@@ -1,0 +1,20 @@
+.mydiv {
+    border: 3px solid blue;
+    width:600px;
+    padding:20px;
+
+
+}
+.b {
+    color: blue;
+}
+.pd {
+    width: 400px;
+    margin-right:200px;
+}
+.m  input{
+    margin-top:5px;
+}
+.f{
+    position: flex;
+}

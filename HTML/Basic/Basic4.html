@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style2.css">
+    </head>
+    <div class="mydiv">
+        <h1>Reservation Request</h1>
+        <form>
+            <fieldset class="m">
+                <legend class="b">General Information</legend>
+                <label class="pd" for="date">Arrival date:</label>
+                <input type="text" id="date" name="date" value=""><br>
+                <label class="pd" for="date">Nights:</label>
+                <input type="text" id="Nights" name="Nights" value=""><br>
+                <label class="pd" for="date">Adult:</label>
+                    <input list="Adult" name="Adultos" value="1" /><br></label>
+                    <datalist id="Adult">
+                      <option value="1">
+                      <option value="2">
+                      <option value="3">
+                      <option value="4">
+                    </datalist>
+                <label class="pd" for="date">Children:</label>
+                    <input list="Adult" name="Adultos" value="1" /><br></label>
+                    <datalist id="Adult">
+                      <option value="1">
+                      <option value="2">
+                      <option value="3">
+                      <option value="4">
+                    </datalist>
+                
+            </fieldset>
+        </form>
+        <form>
+            <fieldset class="m">
+                <legend class="b">Preferences</legend>
+                <label for="date">Room type:</label>
+                <input type="radio" id="Tipo_A" name="tipo_de_departamento" value="Tipo_A">
+                <label for="html">Standard</label>
+                <input type="radio" id="Tipo_B" name="tipo_de_departamento" value="Tipo_B">
+                <label for="css">Business</label>
+                <input type="radio" id="Tipo_C" name="tipo_de_departamento" value="Tipo_C">
+                <label for="javascript">Suite<br></label>
+                <label for="date">Bed type:</label>
+                <input type="radio" id="Tipo_A" name="tipo_de_departamento" value="Tipo_A">
+                <label for="html">King</label>
+                <input type="radio" id="Tipo_B" name="tipo_de_departamento" value="Tipo_B">
+                <label for="css">Double Double</label><br>
+                <input type="checkbox" id="Opcional" name="Opcional" value="Smoking">
+                <label for="requisito1">Smoking</label><br>
+
+            </fieldset>
+        </form>
+        <form>
+            <fieldset class="m">
+                <legend class="b">Contact Information</legend>
+                <label class="pd" for="date">Name:</label>
+                <input type="text" id="fname" name="fname" value=""><br>
+                <label class="pd" for="date">Email:</label>
+                <input type="text" id="fname" name="fname" value="correo electronico"><br>
+                <label class="pd" for="date">Phone:</label>
+                <input type="text" id="fname" name="fname" value=""><br>
+            </fieldset>
+        </form>
+        
+    </div>
+</html>
