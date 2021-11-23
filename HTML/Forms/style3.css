@@ -1,0 +1,32 @@
+.a{
+    padding-right:180px;
+}
+.fs{
+    font-size:small;
+}
+.b td{
+    font-weight: bold;
+}
+.espacio tr>td{
+    padding-right: 5px;
+}
+.c{
+    padding-right:200px;
+}
+.estilo tr,td{
+    border: 1px solid black;
+}
+.top{
+    vertical-align: text-top;
+    width:300px;
+}
+.top1{
+    vertical-align: text-top;
+    width:180px;
+}
+#o {
+    position:relative;
+    display: inline-block;
+    width:200px;
+    left:24px;
+}
