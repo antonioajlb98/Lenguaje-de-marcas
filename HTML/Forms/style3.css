@@ -13,8 +13,9 @@
 .c{
     padding-right:200px;
 }
-.estilo tr,td{
+.estilo td{
     border: 1px solid black;
+    border-collapse:collapse;
 }
 .top{
     vertical-align: text-top;
