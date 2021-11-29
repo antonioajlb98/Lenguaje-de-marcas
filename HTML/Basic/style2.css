@@ -21,3 +21,9 @@
     margin:8px;
     margin-top:12px;
 }
+.o{
+    position:relative;
+    display: inline-block;
+    width:200px;
+    left:0px;
+}

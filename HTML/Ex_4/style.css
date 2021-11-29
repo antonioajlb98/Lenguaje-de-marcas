@@ -1,0 +1,26 @@
+.Base{
+    background-color: red;
+}
+.Programación{
+    background-color:blue;
+}
+.Tabla td,th,table{
+    border: 1px solid black;
+    text-align:left;
+    width: 600px;
+}
+.Entornos{
+    background-color:green;
+}
+.sis{
+    background-color:pink;
+}
+.Lenguaje{
+    background-color:orange;
+}
+.Fol{
+    background-color:brown;
+}
+.a{
+    text-align:center;
+}
