@@ -6,7 +6,7 @@ body {  background-image: url(jabber2.gif);
         background-repeat: no-repeat;
         background-position:absolute;
         background-position:right;
-        
+        margin-right:456px;
     }
 body {background-color: tan}
 /* Headers */
