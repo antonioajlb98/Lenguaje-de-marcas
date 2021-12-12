@@ -1,0 +1,52 @@
+html{
+    background-image: url(background.jpg);
+}
+.logo{
+    width:350px;
+    height:100px;
+    margin-left:40px;
+}
+.imagen{
+    width:500px;
+    height:400px;
+}
+.div1{
+    display:flex;
+    justify-content:right;
+    padding-right:100px;
+}
+.letras{
+    color:white;
+    font-size:30px;
+    margin-top:150px;
+    margin-right:80px;
+}
+a{
+    color:orange;
+    font-size:40px;
+}
+.boton{
+    background-color:orange;
+    width:90px;
+    height:50px;
+    border-radius:10px;
+}
+.h1{
+    color:white;
+
+}
+.pie{
+    text-align:center;
+    color:white;
+    font-size:20px;
+}
+.perro{
+    width:250px;
+    height: 200px;
+    margin:10px;
+    border:5px solid white;
+}
+.div2{
+    display:flex;
+    justify-content: center;
+}

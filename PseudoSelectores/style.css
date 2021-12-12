@@ -1,0 +1,28 @@
+
+.Tabla td,table{
+    border: 1px solid black;
+    text-align:left;
+    width: 600px;
+    border-collapse: collapse;
+}
+th{
+    text-align:center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr td:first-child{
+    background-color:green;
+}
+tr th:last-child{
+    background-color:yellow;
+}
+tr td:last-child:hover{
+    font-size:30px;
+}
+a{
+    font-size:30px;
+}
+caption:link     {color:green}
+caption:visited  {color:yellow}
+caption:hover    {color:black}
+caption:active   {color:red}

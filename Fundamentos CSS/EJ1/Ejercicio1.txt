@@ -1,0 +1,9 @@
+Backgroud color cambia el color de fondo de la pagina.
+-h1 se refiere al Titulo de la pagina le cambia el color y el tamaño.
+-hr Se refiere a la linea que separa los parrafos del titulo.
+-p se refiere el parrafo le cambia el tamaño de la letra y le pone margen.
+-p.verse se refiere a los parrafos que tengan como clase verse y solo va a afectar a estos parrafos.
+-a:link   Se refiere al link le da color.
+-a:visited  Cuando visitas este link se pone de color amarillo.
+-a:hover   Cuando dejas el raton encima se pone de color negro.
+a:-active Cuando lo pulsas se pone de color azul.
