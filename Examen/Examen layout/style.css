@@ -1,0 +1,31 @@
+.div1{
+    padding-left:50px;
+}
+.div2{
+    width:800px;
+    border-bottom:1px solid black;
+}
+.div3{
+    display: flex;
+    width:800px;
+    border-bottom:1px solid black;
+}
+.icono{
+    text-align:right;
+}
+.titutlo{
+    padding-top:0px;
+}
+.imagen{
+    border-radius:50%;
+    height:40px;
+    width:40px;
+}
+.divf{
+    display: flex;
+}
+.divf1{
+    display: flex;
+    justify-content: center;
+    padding:10px;
+}
