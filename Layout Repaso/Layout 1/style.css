@@ -1,0 +1,70 @@
+.medio{ 
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+}
+.menu{ 
+        display: grid;
+        grid-template-columns: repeat(5,min-content);
+        gap:15px;
+        background-color:green;
+
+}
+.header{
+        background-color:black;
+        color:white;
+        border-top-left-radius:12px;
+        border-top-right-radius:12px;
+}
+.footer{
+        background-color:black;
+        color:white;
+        text-align:center;
+        border-bottom-left-radius:12px;
+        border-bottom-right-radius:12px;
+}
+
+.t{
+        margin-top:0px;
+}
+.calendario{
+        border:grey;
+        background-color:grey;
+        border-radius:10px;
+        padding-left:20px;
+        padding-right:20px;
+        margin-right:400px;
+        margin-left:120px;
+}
+.clases{
+        border:grey;
+        background-color:grey;
+        border-radius:10px;
+        height:200px
+}
+.imagen{
+        position:absolute;
+        right:37%;
+        width:100px;
+        height:100px;
+        padding: 10px;
+        bottom:43%;
+}
+.texto{
+        text-align:right;
+}
+.imagen2{
+        width:600px;
+        align-items: center;
+}
+.menu1{
+        border:grey;
+        background-color:grey;
+        border-radius:10px;
+        margin-right: 400px;
+        padding:12px;
+}
+.class{
+        border:black;
+        background-color:grey;
+
+}

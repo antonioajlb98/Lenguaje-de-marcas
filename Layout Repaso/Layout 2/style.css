@@ -1,0 +1,50 @@
+.header{
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin:0px;
+}
+.imagen{
+    width: 100%;
+}
+.texto{
+    text-align: right;
+    margin: 0px;
+}
+.lista{
+    display:nowrap;
+    display:flex;
+    background-color:black;
+    color:white;
+    margin: 0px;
+}
+.lista > li{
+    margin-right: 50px;
+}
+.lista2{
+    background-color: black;
+    color:white;
+}
+.centro{
+    width:40%;
+    margin-top:20px;
+    background-color:grey;
+    padding:20px;
+    margin-right:40px;
+}
+.div{
+    width:30%;
+    margin-right:50px;
+}
+.divp{
+    display: flex;
+    width:100%;
+}
+.footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+div>div>div>nav>ul>li:nth-child(odd) {
+    background-color: grey;
+}
